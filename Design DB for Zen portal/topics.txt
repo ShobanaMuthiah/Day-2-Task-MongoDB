@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c33"
+  },
+  "topic": "github",
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c34"
+  },
+  "topic": "js",
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c35"
+  },
+  "topic": "advanced js",
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c36"
+  },
+  "topic": "html",
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c37"
+  },
+  "topic": "css",
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c38"
+  },
+  "topic": "Bootstrap",
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c39"
+  },
+  "topic": "react",
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c3a"
+  },
+  "topic": "redux",
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c3b"
+  },
+  "topic": "nodejs",
+  "date": {
+    "$date": "2020-11-05T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c3c"
+  },
+  "topic": "express",
+  "date": {
+    "$date": "2020-11-08T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d185d6bae594c402c3d"
+  },
+  "topic": "mongodb",
+  "date": {
+    "$date": "2020-11-01T00:00:00.000Z"
+  },
+  "user_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  }
+}]

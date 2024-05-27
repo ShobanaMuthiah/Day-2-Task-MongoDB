@@ -1,0 +1,2640 @@
+[{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b57"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b58"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b59"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b5a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b5b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b5c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b5d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b5e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b5f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b60"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b61"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b62"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b63"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b64"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b65"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b66"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b67"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b68"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b69"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b6a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b6b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b6c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b6d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b6e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b6f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b70"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b71"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b72"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b73"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b74"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b75"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b76"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b77"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b78"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b79"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b7a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b7b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b7c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b7d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b7e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b7f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b80"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b81"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b82"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b83"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b84"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b85"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b86"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b87"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b88"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b89"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b8a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b8b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b8c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b8d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b8e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b8f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b90"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b91"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b92"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b93"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b94"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b95"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b96"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b97"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b98"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b99"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b9a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b9b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b9c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b9d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b9e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402b9f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba0"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba1"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba2"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba3"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba4"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba5"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba6"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba7"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba8"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402ba9"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402baa"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bab"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bac"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bad"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bae"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402baf"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb0"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb1"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb2"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb3"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb4"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb5"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb6"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb7"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb8"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bb9"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bba"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bbb"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bbc"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bbd"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bbe"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bbf"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc0"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc1"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc2"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc3"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc4"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc5"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc6"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc7"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc8"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bc9"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bca"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bcb"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bcc"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bcd"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bce"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bcf"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd0"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd1"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd2"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd3"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd4"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd5"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd6"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd7"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd8"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bd9"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bda"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bdb"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bdc"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bdd"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bde"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bdf"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be0"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be1"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be2"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be3"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be4"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be5"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be6"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be7"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be8"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402be9"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bea"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402beb"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bec"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bed"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bee"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bef"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf0"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf1"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf2"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf3"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf4"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf5"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf6"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf7"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf8"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bf9"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bfa"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bfb"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bfc"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bfd"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bfe"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402bff"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c00"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c01"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c02"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c03"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c04"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c05"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c06"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c07"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c08"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c09"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c0a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c0b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c0c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c0d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c0e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c0f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c10"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c11"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c12"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c13"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c14"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c15"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c16"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c17"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c18"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c19"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c1a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c1b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c1c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eee"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c1d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c1e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-02T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c1f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c20"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c21"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c22"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-08T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c23"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c24"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c25"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c26"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c27"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c28"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  },
+  "attendance": "a"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c29"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c2a"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c2b"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c2c"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c2d"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-23T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c2e"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-24T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c2f"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c30"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c31"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "attendance": "p"
+},
+{
+  "_id": {
+    "$oid": "66544cba5d6bae594c402c32"
+  },
+  "attendance_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "attendance": "p"
+}]

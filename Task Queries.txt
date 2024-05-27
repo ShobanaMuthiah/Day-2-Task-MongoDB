@@ -1,0 +1,36 @@
+Query 1:    Find all the topics and tasks which are thought in the month of October
+    db.tasks.aggregate(
+[  {
+$lookup:{
+from:"user",
+localField:"student_id",
+foreignField:"_id",
+as:"TaskDetails"
+}},
+ {$lookup:{
+from:"topics",
+localField:"topic_id",
+foreignField:"_id",
+as:"topicdetails"
+}
+
+},
+ {
+ $unwind: {
+    path:'$topicdetails',
+    }
+},
+
+ {
+     $unwind: {
+    path:'$TaskDetails',
+}
+ },{
+$project:{
+_id:0,
+'topicdetails.topic':1,
+task:1
+}
+}
+]
+)

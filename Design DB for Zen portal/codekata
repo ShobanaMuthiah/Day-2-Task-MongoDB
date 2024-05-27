@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef0"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "solved_problems": "45"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef1"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "solved_problems": "34"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef2"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "solved_problems": "12"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef3"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "solved_problems": "87"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef4"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "solved_problems": "20"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef5"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "solved_problems": "58"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef6"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "solved_problems": "74"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef7"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "solved_problems": "25"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef8"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "solved_problems": "53"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5ef9"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "solved_problems": "44"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5efa"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5ee8"
+  },
+  "solved_problems": "32"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5efb"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "solved_problems": "64"
+},
+{
+  "_id": {
+    "$oid": "6652f985e4687e72748d5efc"
+  },
+  "codekata_user_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "solved_problems": "47"
+}]

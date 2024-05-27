@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc2"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5eea"
+  },
+  "company": "amazon",
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc3"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5ee6"
+  },
+  "company": "flipkart",
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc4"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5ee9"
+  },
+  "company": "zoho",
+  "date": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc5"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5eec"
+  },
+  "company": "tcs",
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc6"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5eeb"
+  },
+  "company": "cts",
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc7"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5eef"
+  },
+  "company": "hitech",
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc8"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5eed"
+  },
+  "company": "hcl",
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66544d725d6bae594c402cc9"
+  },
+  "selected_id": {
+    "$oid": "6652db47e4687e72748d5ee7"
+  },
+  "company": "htc",
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  }
+}]
